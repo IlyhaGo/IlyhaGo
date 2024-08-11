@@ -82,3 +82,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GoUlyashka&style=flat-square&color=blue" alt="Profile Views">
 </p>
+
+<p align="center">
+  <img src="https://github.com/go-oneline/Go/blob/main/GoUlyashka_banner.jpeg" alt="GoUlyashka Banner" width="100%" />
+</p>
+
